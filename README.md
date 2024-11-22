@@ -1,6 +1,6 @@
 # Sort Visualizer
 
-interactive web application designed to help users understand and visualize various sorting algorithms in action. The tool aims to make learning sorting algorithms intuitive and engaging by offering dynamic animations, user interaction, and customization options.
+Interactive web application designed to help users understand and visualize various sorting algorithms in action. The tool aims to make learning sorting algorithms intuitive and engaging by offering dynamic animations, user interaction, and customization options.
 
 
 ## Purpose
